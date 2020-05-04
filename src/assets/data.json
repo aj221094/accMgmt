@@ -1,0 +1,12 @@
+{
+    "name":"William Shakespear",
+    "location": "Las Vegas, USA", 
+    "phoneNumber":8447316829,
+    "email": "william@gmail.com",
+    "phoneType":"Smartphone",
+    "phoneModel":"iphone 11",
+    "planName":"121 Popular",
+    "planValidity":"30 Days",
+    "activationDate":"4/05/20",
+    "renewDate":"3/06/20"
+}
